@@ -1,0 +1,19 @@
+{
+  "name": "chainyard",
+  "version": "1.0.0",
+  "description": "Chainyard Coding Challenge\r When completing this coding challenge, please organize your code as if it were going into production, then send us a link to the hosted repository (e.g. Github, Bitbucket...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssingh143/Chainyard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssingh143/Chainyard/issues"
+  },
+  "homepage": "https://github.com/ssingh143/Chainyard#readme"
+}
